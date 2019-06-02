@@ -1,5 +1,5 @@
 # GUI-APP
-GUI app using tkinter
+GUI app using tkinter (python 3) to minimise debt cost path to implement efficient accounting.
 
 ## Problem:
 -Consider 3 men owe each of the others a certain amount. If user1 owes user2 30 units and user2 owes user1 24 units, it would be inefficient for user1 to give 30 and receive 24. Instead the minimized path would offer a solution where user1 need only give user2 6 units which would be the most efficient method.
